@@ -1,3 +1,5 @@
+Moved into https://github.com/FeatureIDE/FeatJAR
+
 # FeatJAR-feature-model-assistance
 
 This repository contains classes for conveniently using typical functionality that was available under FeatureIDE.
